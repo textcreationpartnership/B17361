@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse in defense of the Londoners last petition for peace shewing the legality, honesty, justice, and commodity of the said petition to the high Court of Parliament, against the opinions of some factious and turbulent spirits, who desire a continuance of the war. Written by H. G. C. L. B.</title>
+            <author>H. G., B.L.C.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17361</idno><idno type="EEBO-CITATION">99827553</idno>
+  <idno type="VID">207612</idno>
+  <idno type="EEBO-PROQUEST">2248496917</idno>
+  
+            <idno type="STC">Wing B81A</idno>
+            <idno type="PROQUEST">99827553</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827553e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207612)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1922:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse in defense of the Londoners last petition for peace shewing the legality, honesty, justice, and commodity of the said petition to the high Court of Parliament, against the opinions of some factious and turbulent spirits, who desire a continuance of the war. Written by H. G. C. L. B.</title>
+                  <author>H. G., B.L.C.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Carter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title repeated as a drop-head title on A2r.</note>
+                  <note>Title surrounded by border of type ornaments.</note>
+                  <note>Title vignette of a fleur-de-lys in an ornamental frame.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Petition, Right of --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Censorship --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207612:1"/>
+            <p>A DISCOVRSE in defense of the Londoners last Petition for PEACE: Shewing the Legality, Honesty, Iustice, and Commodity of the said Petition to the high Court of Parliament,</p>
+            <p>Against the opinions of some factious and turbulent spirits, who desire a continuance of the war.</p>
+            <p>Written by <hi>H.G.C.L.B.</hi>
+            </p>
+            <q xml:lang="lat">Nulla salus bello, pacens nos poscimus omnes.</q>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's device consisting of a fleur-de-lis against a plain background with the motto "In Domine confido" (See McKerrow nos. 268-272.)</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Carter.</hi>
+            </p>
+            <pb facs="tcp:207612:2"/>
+            <pb facs="tcp:207612:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207612:3"/>
+            <pb n="3" facs="tcp:207612:3"/>
+            <head>A Discourse in defence of the Lon<g ref="char:EOLhyphen"/>doners last Petition for Peace.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Od is the God of Peace, (saith the Pro<g ref="char:EOLhyphen"/>phet;) so is he called the Lord of Hosts, and the God of Battels: <hi>Peace</hi> is the At<g ref="char:EOLhyphen"/>tribute of his mercy, War of his justice; by it he bruiseth offending Nations with a rod of Iron, scattering them in his wrath, and consuming them in his hea<g ref="char:EOLhyphen"/>vie displeasure: by Peace he poures upon them the blessing of Peace, the dew of Hermon, which alwayes engenders wealth, happinesse, and plenty. Such have been the heaven<g ref="char:EOLhyphen"/>ly showres, that have for many yeeres fertilized the beaute<g ref="char:EOLhyphen"/>ous face of this Kingdome, now for the sins of the people o<g ref="char:EOLhyphen"/>ver-whelmed with a tempest of civill and intestine differen<g ref="char:EOLhyphen"/>ces, raging like an earth-quake in its very bowels: war on the one side (namely the Parliaments) having beene appa<g ref="char:EOLhyphen"/>rently necessary and defensive; on his Majesties, misadvised by malignant counsells, destructive and ruinous.</p>
+            <p>For the composition of these distractions, divers hopefull overtures have been propounded betwixt his Majesty and his high Court of Parliament, which had they been as gra<g ref="char:EOLhyphen"/>ciously received, as heartily and loyally intended, wee had now enjoyed (that blessing and testimony of the Almighties love) peace in our dwellings. In these wars (as wee may rightly terme them on our side) for our countrey, the honou<g ref="char:EOLhyphen"/>rable
+<pb n="4" facs="tcp:207612:4"/>and ancient City of London hath been most forward and zealous in their bounties, towards the support of the charge which hath depended on these military procee<g ref="char:EOLhyphen"/>dings: but surely Man, in his owne nature being a rationall creature, must needs delight in that which is accident to his reason, nay inseparable from it, the desire of peace,
+<q xml:lang="lat">—<hi>pacem nos poscimus omnes,</hi>
+               </q> discord and dissension being the prop<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rty of savage beasts, who by the ferocity of their nature thirst after blood: And certainly in no one thing doth man more resemble the divine goodnesse then in gentlenesse and pitty. This desire of peace (as I am engaged to beleeve) hath induced many able and honest religious Citizens of London, to entreat in all humi<g ref="char:EOLhyphen"/>lity the high Court of Parliament to shape some course in their wisedomes, for the composing all differences with his Majesty. Which petition of theirs (disliked by many facti<g ref="char:EOLhyphen"/>ous and turbulent spirits) I shall endevour to prove legall, honest, just, and commodious, so far as it is concurrent with and directed by the Votes of the honourable the high Court of Parliament. And first, to prove its legality; that must needs be legall which seeks the preservation of the funda<g ref="char:EOLhyphen"/>mentall Lawes of this Kingdome; This Petition seekes the preservation of the said Fundamentall Lawes; Therefore legall is this Petition. Nought in this Syllogisme can com<g ref="char:EOLhyphen"/>prehend a doubt, except the <hi>minor,</hi> which is thus easily pro<g ref="char:EOLhyphen"/>ved: That seeks the preservation of the Fundamentall laws, which labours to induce the preserver of all lawes: Peace is the preserver of all lawes, which this Petition labours to induce; <hi>Ergo,</hi> This Petition is legall. The Declaration is e<g ref="char:EOLhyphen"/>vident. Againe, the legality of this Petition is onely proved <hi>quatenus</hi> it is concurrent with, and directed by the Votes of the high Court of Parliament, that being the fountaine from whence the Fundamentall lawes of this Kingdome are deri<g ref="char:EOLhyphen"/>ved; and whatsoever strikes at the root of our lawes, must needs strike the lawes themselves: Therefore neither this Petition, nor its abettors, can be said any longer to carry lega<g ref="char:EOLhyphen"/>lity
+<pb n="5" facs="tcp:207612:4"/>in their proceedings, then those proceedings are con<g ref="char:EOLhyphen"/>current with, and directed by the Vetes of that sacred as<g ref="char:EOLhyphen"/>sembly. But certainly the good and able Citizens, in their Petition so humbly drawne and presented, never intended any thing, but what should be consonant and consentaneous to the dispose of the Parliament: and if so, the legality of their Petition may justly arise triumphant over all the calum<g ref="char:EOLhyphen"/>nies of those fiery and factious spirits, that so delight in war and blood-shed.</p>
+            <p>Again, its honesty is so conspicuous, (the clause aforesaid observed) that it is as it were <hi>Sol quidem <q xml:lang="grc">
+                     <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </q>
+               </hi> (as the Greeks call it) a Sun inlightning every one, and shining eve<g ref="char:EOLhyphen"/>ry way. For if we may believe that Stoicall Legislator of the Romanes, <hi>Cicero</hi> in his Paradox, namely, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Quod <gap reason="illegible" extent="4 words">
+                     <desc>〈◊◊◊◊〉</desc>
+                  </gap>,</hi> That onely is good that is honest; what can be honester then this Petition, since there is nothing can be more replenished with goodnesse: good<g ref="char:EOLhyphen"/>nesse in respect of its obedience to the divine mandate, which bids us seeke peace and ensue it, pronouncing in an<g ref="char:EOLhyphen"/>other place, <hi>Beati p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cefice;</hi> and <hi>Blessed are they that seeke the peace of Sio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> Good it is certainly in respect of the effect it would produce, namely, an union between the King and his people, a reconciliation betweene the dissentious and Cadmean Brethren of this Nation, who with hostile hands seek to teare out one anothers throats: Good also in regard of the definition of honesty it selfe, which is in briefe, <hi>nihil iniuste agere,</hi> and what better way can there be to compose the injustices now emergent in this Kingdome, then to take away the cause of them, <hi>Sublata causa tollitur effectus;</hi> the causes of innumerable rapines, thefts, murthers, burning and plundring (then which there can be no greater or more dire injustice) hath been these wars; they taken away (as is the intent of this Petition) those injustices wold easily cease, and therefore the honesty of the Petition <hi>(Luce meridiaenae cluri<g ref="char:EOLhyphen"/>us)</hi> is conspicuous to all indifferent judgements; those men that would still have warre, taxing themselves of dishonesty
+<pb n="6" facs="tcp:207612:5"/>in disallowing the honesty of this Petition, as far as it is concurrent with, and directed by the votes of Parliament, that is, as farre as it and the authours of it doe in all hu<g ref="char:EOLhyphen"/>mility submit their judgements to the directions of that il<g ref="char:EOLhyphen"/>lustrious Senate, the universall body of the Kingdome, who no doubt, know in their wisdomes, how, and on what termes to propound peace to his Majestie for the good o the Subject and safety of the Kingdome, and will no longer seeke to continue this fatall and unnaturall war, then the necessary defence of the state injoynes them; and certainely, so long as this City Petition was but an humble tender of their wishes to the high Court of Par<g ref="char:EOLhyphen"/>liament, leaving them to be directed and effectuated by their discretions, who can but grant it honest and legall? Thus much for the two first points of the argument: briefly to the two last.</p>
+            <p>For its justice, if that justice <hi>qui tribuit suum cuique pro<g ref="char:EOLhyphen"/>prium,</hi> as infallibly it is, nothing can be furnish'd with a clearer equity then this Petition: first, it seekes to give to God Almighty that which is his owne, namely, the setling of his due and true worship: secondly, it strives to give the King that which is his owne, the obedience of his subjects: and thirdly, it endeavours to confer on the sub<g ref="char:EOLhyphen"/>ject that which is his owne, the confirmation of their pri<g ref="char:EOLhyphen"/>viledges and properties: For sure no man can imagine that these petitioning Citizens can be so foolish as to intreat the Parliament to thinke of Propositions for peace, that might inslave and inthr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll their liberties, and the immunities of their fellow subjects, they would surely rather hazard and consume their estates and lives in the just defence of the Parliaments proceedings: If they have any other sinister end reserv'd to themselves, their Petition can neither be just, honest nor legall, because it can have then no concurrency with the votes of the high Court of Parliament, who being intrusted with the security and freedome of the King<g ref="char:EOLhyphen"/>dome, will rather indure all the horrors of a warre then
+<pb n="7" facs="tcp:207612:5"/>by a prejudiciall peace give away, nay, as it were, betray the very essence of the subject his liberty. For the commo<g ref="char:EOLhyphen"/>diousnesse which is aym'd at in this Petition, surely there can none so much abuse his owne reason, as to doubt it.</p>
+            <p>First, by these wars this City, the most famous Empo<g ref="char:EOLhyphen"/>rium or Mart towne of all <hi>Europe,</hi> is devested of the greatest part of the glory, honour and riches accrued to it by mer<g ref="char:EOLhyphen"/>chandize, forrainers being fearefull to bring their wares in<g ref="char:EOLhyphen"/>to any Countrey which is plung'd over head and eares in domestique troubles; and till peace and happy concord be settled some way in this Kingdome, that increase of com<g ref="char:EOLhyphen"/>merce can never be established in this City; nor can they export out of this City their commodities into the Country, which is now so full of Malignants souldiers nothing of value can escape their rapacious fingers: and certainly, if the taking away discommodities may be allowed com<g ref="char:EOLhyphen"/>modious, nothing can be fuller of utility to this City and Kingdome then peace, such a peace I meane, as may be concurrent with, and directed by the votes of the high Court of Parliament, and past dispute, in the matter of this Petition nothing can be found which is either ille<g ref="char:EOLhyphen"/>gall, dishonest, unjust, or discommodious, if the manner of it doe not render it guilty of all of them; I meane the man<g ref="char:EOLhyphen"/>ner of presenting it, such a multitude following the deli<g ref="char:EOLhyphen"/>very of it to <hi>Westminster</hi> to the high Court of Parliament, such an assembly rather carrying the face of a tumult then of men who came to Petition for redresse of grievances. <hi>Frustra sit per plura quod fieri potest per pauciora;</hi> halfe a dozen of the most substantiall of the Petitioners, might with as much ease, and a more free acceptance, have had ac<g ref="char:EOLhyphen"/>cesse to the honourable the high Court of Parliament, then such a numerous company; but they demeaned themselves civilly and peaceably, yet it had been easier for them to have done so, being but a few, then in such a multitude, among which, all could not be alike in their behaviour. But to conclude all this discourse, the <hi>Atlas</hi> of our <hi>English</hi>
+               <pb n="8" facs="tcp:207612:6"/>heaven the Parliament knowes better in their wisedome what is fit, honourable and just, for the City of <hi>London,</hi> and the whole Kingdome, then the Citizens or Subjects them<g ref="char:EOLhyphen"/>selves; wee having onely matters contingent to our owne safeties by relation, they by evident proofe, having a sure and notorious intellgience of all the machinations of the Malignants against our lives and liberties: no mans Pe<g ref="char:EOLhyphen"/>tition therefore for peace (though in it selfe, <hi>pax est opti<g ref="char:EOLhyphen"/>mum rerum</hi>) can be either legall, honest, just, or commo<g ref="char:EOLhyphen"/>dious, further then it is concurrent with, and directed by the Votes of the honourable the high Court of Parliament, whom God in his mercy preserve for ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207612:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
